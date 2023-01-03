@@ -4,7 +4,7 @@ public class Sum_Numbers{
 	
 	public int sum(int x, int y) 
 	{ 
-		return (x + y); 
+		return (x + y);
 	}
 	
 	 public int sum(int x, int y, int z)
