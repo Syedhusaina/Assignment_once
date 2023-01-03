@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Husaina
+ *
+ */
+module inheritoncenew {
+}
