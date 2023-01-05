@@ -25,7 +25,7 @@ public class Polyndrome {
 		}
 		catch(Exception e)
 		{
-			System.out.println("Number is not entered");
+			System.out.println("Number is not entered corectly");
 		}
     }  
 }
